@@ -1,2 +1,0 @@
-# timx
-https://timx.dev
